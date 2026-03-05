@@ -29,7 +29,16 @@ Note: these are **documentation aliases** for now. The physical file names remai
 ```text
 .
 |-- human detection model/
+|   |-- DistanceMeasure_using YOLO and comp vision.py
+|   |-- distanceMeasure_using YOLO and comp vision with hand gesture.py
+|   `-- hand_landmarker.task
 |-- pretest/
+|   |-- calibration_test_using_jpg.py
+|   |-- mediacheck.py
+|   |-- images (1).jpg
+|   |-- images (2).jpg
+|   |-- person long jump for pixel detection and tracking test.jpg
+|   `-- znxufqizy0fkpx5qn5ay.avif
 |-- runs/
 |-- chessboard_Calibration_of_individual_cams.py
 |-- chess_StereoCAM.py
