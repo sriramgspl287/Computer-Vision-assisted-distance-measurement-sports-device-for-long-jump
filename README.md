@@ -89,7 +89,7 @@ python "MAIN_Primitive code that records and then we choose the point.py"
 
 ## Outputs and Artifacts
 
-- Calibration files:
+- Calibration files (need to calibrate and generate files again for new cameras at a fixed distance using a printed chessboard):
   - `webcam_intrinsics.npz`
   - `mobilecam_intrinsics.npz`
   - `stereo_params.npz`
@@ -104,7 +104,7 @@ python "MAIN_Primitive code that records and then we choose the point.py"
 - MediaPipe package/API compatibility can vary by version (`solutions` vs `tasks`).
 - See `PROBLEMS.md` for current findings and diagnostic commands.
 
-## Roadmap (Open-Source Ready)
+## Roadmap
 
 ### 1) Repository Hygiene
 - [ ] Rename long/space-containing script filenames to clean snake_case names
@@ -143,8 +143,5 @@ Until the repo is fully reorganized:
 - Include camera setup (indices/URL), model files used, and OS details
 - Keep PRs scoped to one subsystem (calibration, stereo measure, tracking)
 
-## License
-
-Add a license file before public release (MIT recommended for broad adoption).
 # Computer-Vision-assisted-distance-measurement-sports-device-for-long-jump
 Computer Vision assisted distance measurement sports device for long jump.
