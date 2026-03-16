@@ -1,4 +1,10 @@
-﻿"""
+﻿#MAIN_Primitive code that records and then we choose the points on the video to calculate the distance.
+
+
+
+
+
+"""
 Stereo Jump Distance Measurer
 â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 Works with any two cameras (webcam + DroidCam, or two USB cams).

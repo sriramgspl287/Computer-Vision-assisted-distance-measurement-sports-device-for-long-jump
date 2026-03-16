@@ -3,7 +3,8 @@
 #Cameras: Laptop Webcam (Camera A) + DroidCam Phone (Camera B)
 #Features: Non-blocking threaded frame grabbers, frame sync, triangulation
 
-
+#for stereo vision, measurement, or any real-world spatial analysis.
+    
 import cv2
 import numpy as np
 import threading

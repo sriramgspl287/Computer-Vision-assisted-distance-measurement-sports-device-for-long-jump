@@ -15,6 +15,7 @@
 # - y increases downward
 # - Confirmed pixel coordinates are consistent across clicks.
 
+#  for quick, simple pixel coordinate picking from a single source.
 
 import cv2
 import os
